@@ -7,3 +7,6 @@ A personal improvement repository full of useful resources
 
 ## Finance
 - https://www.reddit.com/r/ItaliaPersonalFinance/wiki/index/
+
+## DevOps
+- https://www.contino.io/insights/devops-engineer-guide
